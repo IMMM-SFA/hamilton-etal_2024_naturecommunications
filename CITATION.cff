@@ -1,14 +1,23 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: "Vernon"
-    given-names: "Chris R."
-    orcid: "https://orcid.org/0000-0002-3406-6214"
-  - family-names: "Rexer"
-    given-names: "Em"
-    orcid: "https://orcid.org/0000-0002-0327-183X"
+  - family-names: "Hamilton"
+    given-names: "Andrew L."
+    orcid: "https://orcid.org/0000-0001-7246-032X"
+  - family-names: "Reed"
+    given-names: "Patrick M."
+    orcid: "https://orcid.org/0000-0002-7963-6102"
+  - family-names: "Gupta"
+    given-names: "Rohini S."
+    orcid: "https://orcid.org/0000-0003-3538-0675"
+  - family-names: "Zeff"
+    given-names: "Harrison B."
+    orcid: "https://orcid.org/0000-0003-0006-789X"
+  - family-names: "Characklis"
+    given-names: "Gregory W."
+    orcid: "https://orcid.org/0000-0001-9882-9068"
 title: "metarepo: A single point of access meta-repository that guides others in how to reproduce an experiment."
-repository-code: "https://github.com/IMMM-SFA/metarepo"
-doi: 10.5281/zenodo.10442485
-url: https://github.com/IMMM-SFA/metarepo
+repository-code: "https://github.com/IMMM-SFA/hamilton-etal_2024_naturecommunications"
+doi: 
+url: https://github.com/IMMM-SFA/hamilton-etal_2024_naturecommunications
 
